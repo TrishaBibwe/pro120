@@ -1,0 +1,29 @@
+p{
+    color: blue;
+    letter-spacing: 3px;
+
+}
+.mobilenet{
+    letter-spacing: 3px;
+    
+}
+.googlelens{
+    letter-spacing: 3px;
+}
+.test_image_and_result{
+    background-color: lightsalmon;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.first,.second{
+    background-color: aliceblue;
+    border-radius: 10px;
+    line-height: 25px;
+   
+}
+
+.googlelens{
+    font-size: 30px;
+    font-weight: 250;
+}
